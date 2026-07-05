@@ -334,5 +334,7 @@ Employee_wise Task Report <img width="1918" height="936" alt="image" src="https:
 <img width="751" height="747" alt="image" src="https://github.com/user-attachments/assets/91d6bb9b-24ce-494c-80e6-0a25e361a585" />
 
 # 📄 License
+## Demo Video
+https://drive.google.com/file/d/1izaxz6QFbSGpEMYuNNyCno8e1pCQ8H9x/view?usp=drive_link
  
 This project was developed solely for the **Lend A Hand India Full Stack Developer Technical Assignment**.
