@@ -330,7 +330,9 @@ Employee management <img width="1919" height="967" alt="image" src="https://gith
 
 Employee_wise Task Report <img width="1918" height="936" alt="image" src="https://github.com/user-attachments/assets/28eede3a-f8d2-424d-9a7a-fc2564add714" />
 
+ ## Architecture Diagram
 
+![Architecture Diagram](Architecture-Diagram.png)
 # 📄 License
-
+ 
 This project was developed solely for the **Lend A Hand India Full Stack Developer Technical Assignment**.
